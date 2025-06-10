@@ -1,3 +1,6 @@
+
+
+
 import React, { useEffect } from 'react';
 import { useInView } from 'react-intersection-observer';
 import { Code, Database, Server, Monitor } from 'lucide-react';
@@ -142,3 +145,6 @@ const Skills: React.FC = () => {
 };
 
 export default Skills;
+
+
+

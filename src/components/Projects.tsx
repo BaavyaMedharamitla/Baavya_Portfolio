@@ -94,19 +94,27 @@ const Projects: React.FC = () => {
     },
     {
       title: "HelpConnect",
-      description: "A simple task management application with CRUD operations built with React and local storage.",
-      image: "https://images.pexels.com/photos/3299/postit-scrabble-to-do.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      tags: ["React", "JavaScript", "Local Storage"],
+      description: "A simple task management application with operations built with HTML,CSS,JS and local storage.",
+      image: "https://erpconnectconsulting.com/cdn/shop/files/HELP-DESK.png?v=1698247465&width=1946",
+      tags: ["HTML","CSS", "JavaScript", "Local Storage"],
       demoLink: "https://github.com/BaavyaMedharamitla/45-Days-WebDev-Internship-ApexPlanet/tree/main/Task-5_Final_Project_Optimization",
       codeLink: "https://github.com/BaavyaMedharamitla/45-Days-WebDev-Internship-ApexPlanet"
+    },
+     {
+      title: "Hospital Appointment Booking Website",
+      description: "A multi page website built with HTML, CSS, and JavaScript featuring Home, About, Contact, and Booking pages. It offers a clean layout with interactive forms, smooth navigation, and adaptable design across devices for a seamless user experience.",
+      image: "src/components/img/image.png",
+      tags: ["HTML","CSS", "JavaScript", "Local Storage"],
+      demoLink: "https://drive.google.com/file/d/13Rs1ldbRazyUCx6Ckw33SRhDkusCqXgh/view?usp=sharing",
+      codeLink: "https://github.com/BaavyaMedharamitla/Hospital-appointment-by-fullstack"
     },
     {
       title: "Portfolio Website",
       description: "A responsive portfolio website showcasing my skills and projects.",
       image: "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      tags: ["HTML", "CSS", "JavaScript", "Responsive Design"],
-      demoLink: "#",
-      codeLink: "#"
+      tags: ["React", "JavaScript", "Responsive Design","emailjs","vercel"],
+      demoLink: "https://baavyamedharamitla-portfolio.vercel.app/",
+      codeLink: "https://github.com/BaavyaMedharamitla/Baavya_Portfolio"
     }
   ];
 
@@ -144,7 +152,7 @@ const Projects: React.FC = () => {
             Interested in seeing more of my work?
           </p>
           <a 
-            href="https://github.com" 
+            href="https://github.com/BaavyaMedharamitla" 
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-outline inline-flex items-center"
