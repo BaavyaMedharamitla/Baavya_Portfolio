@@ -87,7 +87,7 @@ const Projects: React.FC = () => {
     {
       title: "Isai-Live Music Application",
       description: "A responsive blog website built with React and styled with Tailwind CSS. Features dark mode and responsive design.",
-      image: "src/components/img/img.png",
+      image: "https://ik.imagekit.io/hospital/Screenshot%202025-04-06%20184728.png?updatedAt=1749588629143",
       tags: ["React", "Tailwind CSS", "JavaScript"],
       demoLink: "https://baavyamedharamitla.github.io/Isai",
       codeLink: "https://github.com/BaavyaMedharamitla/Isai"
@@ -103,7 +103,7 @@ const Projects: React.FC = () => {
      {
       title: "Hospital Appointment Booking Website",
       description: "A multi page website built with HTML, CSS, and JavaScript featuring Home, About, Contact, and Booking pages. It offers a clean layout with interactive forms, smooth navigation, and adaptable design across devices for a seamless user experience.",
-      image: "src/components/img/image.png",
+      image: "https://ik.imagekit.io/hospital/Screenshot%202025-06-11%20013515.png?updatedAt=1749588545533",
       tags: ["HTML","CSS", "JavaScript", "Local Storage"],
       demoLink: "https://drive.google.com/file/d/13Rs1ldbRazyUCx6Ckw33SRhDkusCqXgh/view?usp=sharing",
       codeLink: "https://github.com/BaavyaMedharamitla/Hospital-appointment-by-fullstack"
